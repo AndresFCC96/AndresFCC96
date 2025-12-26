@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Andres</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center"> Software Developer | Full-Stack Engineer | Clean Architecture Enthusiast</h3>
+
+
+
+<h3 align="center">Welcome to my GitHub! I'm a passionate Full-Stack Developer with over **5 years of experience** building scalable, maintainable, and high-quality applications.</h3>
+
+---
+
+## 🧠 About Me
+- 🎯 **Full-Stack Software Developer** with strong experience in backend and frontend technologies. :contentReference[oaicite:4]{index=4}  
+- 💻 Skilled in building **robust, scalable systems** using modern frameworks and best practices. :contentReference[oaicite:5]{index=5}  
+- 🚀 Focused on **clean architecture, maintainability, and performance**.
+- 🔎 Always learning and seeking **new challenges and opportunities**.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andresfcc96&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
